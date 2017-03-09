@@ -5,4 +5,4 @@
 [visit/前往]
 
 [//]: #
-[visit/前往]: 42vision.github.io
+[visit/前往]: http://42vision.github.io/
