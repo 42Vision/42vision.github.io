@@ -2,27 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 42Vision</title>
-    <link>/42vision.github.io/post/index.xml</link>
+    <link>http://42vision.github.io/post/index.xml</link>
     <description>Recent content in Posts on 42Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2017 13:30:33 +0800</lastBuildDate>
-    <atom:link href="/42vision.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello hugo</title>
-      <link>/42vision.github.io/post/hello-hugo/</link>
+      <link>http://42vision.github.io/post/hello-hugo/</link>
       <pubDate>Tue, 28 Mar 2017 13:30:33 +0800</pubDate>
       
-      <guid>/42vision.github.io/post/hello-hugo/</guid>
-      <description>
-
-&lt;h3 id=&#34;this-is-just-a-test-post&#34;&gt;This is just a test post&lt;/h3&gt;
-
-&lt;h3 id=&#34;don-t-be-panic&#34;&gt;Don&amp;rsquo;t be panic&lt;/h3&gt;
-
-&lt;p&gt;Good to Great: Why Some Companies Make the Leap and Others Don&amp;rsquo;t&lt;/p&gt;
-</description>
+      <guid>http://42vision.github.io/post/hello-hugo/</guid>
+      <description>This is just a test post Don&amp;rsquo;t be panic Good to Great: Why Some Companies Make the Leap and Others Don&amp;rsquo;t</description>
     </item>
     
   </channel>
