@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Furture Land</title>
-    <link>/sharkspeed.github.io/index.xml</link>
-    <description>Recent content on Furture Land</description>
+    <title>42Vision</title>
+    <link>/42vision.github.io/index.xml</link>
+    <description>Recent content on 42Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2017 13:30:33 +0800</lastBuildDate>
-    <atom:link href="/sharkspeed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/42vision.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello hugo</title>
-      <link>/sharkspeed.github.io/post/hello-hugo/</link>
+      <link>/42vision.github.io/post/hello-hugo/</link>
       <pubDate>Tue, 28 Mar 2017 13:30:33 +0800</pubDate>
       
-      <guid>/sharkspeed.github.io/post/hello-hugo/</guid>
+      <guid>/42vision.github.io/post/hello-hugo/</guid>
       <description>
 
 &lt;h3 id=&#34;this-is-just-a-test-post&#34;&gt;This is just a test post&lt;/h3&gt;
