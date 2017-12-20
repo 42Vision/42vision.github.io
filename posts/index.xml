@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 42vision</title>
-    <link>http://example.org/posts/</link>
+    <link>http://42vision.github.io/posts/</link>
     <description>Recent content in Posts on 42vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Dec 2017 15:04:26 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://42vision.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://example.org/posts/hello-hugo/</link>
+      <link>http://42vision.github.io/posts/hello-hugo/</link>
       <pubDate>Tue, 19 Dec 2017 15:04:26 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello-hugo/</guid>
+      <guid>http://42vision.github.io/posts/hello-hugo/</guid>
       <description>I like Hugo This is a good static website generator. Do u think so ???
 This is a good static website generator. Do u think so ???
 This is a good static website generator. Do u think so ???
