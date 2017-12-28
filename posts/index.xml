@@ -6,10 +6,26 @@
     <description>Recent content in Posts on 42Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 Dec 2017 15:04:26 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2017 20:37:13 +0800</lastBuildDate>
     
 	<atom:link href="http://42vision.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[原创] 微信发布了小游戏，这一次腾讯 vs 世界</title>
+      <link>http://42vision.github.io/posts/wechat-minigame/</link>
+      <pubDate>Thu, 28 Dec 2017 20:37:13 +0800</pubDate>
+      
+      <guid>http://42vision.github.io/posts/wechat-minigame/</guid>
+      <description>首先有条件的朋友快去买一波腾讯股票。
+大家应该都知道了，微信下午公布了一波新功能，新增了小程序入口和小游戏。
+我还记得在去年刚发布小程序时还想过，这下除了游戏开发商，其他 app 开发商都要紧张了。游戏开发商淡定，当然还是因为微信小程序这套 Web 开发技术性能太烂，做不出来媲美原生应用的游戏。现在好了，微信带着小游戏而来，优化的性能，强大的社交关系链，又是一波横扫休闲娱乐玩家的势头，在这上边打造一个微信版的“4399/QQ游戏大厅”也只是时间问题。
+不得不感叹一句，休闲娱乐玩家的钱还是好挣啊。
+腾讯今天除了是一个社交帝国，媒体帝国，更是游戏帝国。所以微信走上用游戏变现的商业道路正是顺势而为。如此看来，那句被媒体们奉为圭臬的“小程序要连接线上线下”，已经成为了一个笑谈。
+从技术上讲，小游戏会是引爆国内前端界的一枚炸弹。最近几年，国内前端界言必称框架，模式，架构，甚至还为几个小框架争吵不休。反观小游戏的技术栈里，全是 canvas，service worker， state management，图形学等革命性的技术，这必将提升前端界的技术实力。再加上 WebGL, WebAssembly，WebAR， WebVR 等技术，小游戏的前景更加远大。那时候，全世界的浏览器厂商会突然发现，微信来抢它们的生意了。很难想象小游戏会是张小龙的作品，它注定会是2018年技术和产品圈最热门的话题之一。
+经此一役，腾讯在国内没有了对手，该去挑战世界了，它的对手全是一帮浏览器厂商。谁制定标准谁就掌握话语权；谁的产品更有商业价值，谁就能制定标准。
+这次交锋会和浏览器几次“圣战”一样激烈吗？不多说了，该去学习开发小游戏了。</description>
+    </item>
     
     <item>
       <title>Hello Hugo</title>

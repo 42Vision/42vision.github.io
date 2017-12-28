@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://42vision.github.io/posts/wechat-minigame/</loc>
+    <lastmod>2017-12-28T20:37:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://42vision.github.io/posts/hello-hugo/</loc>
     <lastmod>2017-12-19T15:04:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://42vision.github.io/</loc>
-    <lastmod>2017-12-19T15:04:26+08:00</lastmod>
+    <lastmod>2017-12-28T20:37:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,7 +25,7 @@
   
   <url>
     <loc>http://42vision.github.io/posts/</loc>
-    <lastmod>2017-12-19T15:04:26+08:00</lastmod>
+    <lastmod>2017-12-28T20:37:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
